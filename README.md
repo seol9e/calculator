@@ -1,4 +1,4 @@
-# calculator
+//calculator
 
 #include <iostream>
 #include <conio.h>
